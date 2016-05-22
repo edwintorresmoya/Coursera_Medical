@@ -1,4 +1,4 @@
-setwd("/media/edwin/Nuevo vol/Edwin/R/rprog_data_ProgAssignment3-data")
+
 getwd()
 outcome <- read.csv("outcome-of-care-measures.csv", na.strings = c("Not Available"))
 str(outcome)
